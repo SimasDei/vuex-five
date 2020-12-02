@@ -1,4 +1,4 @@
-# vuex-five
+## vuex-five
 
 ## Project setup
 ```
